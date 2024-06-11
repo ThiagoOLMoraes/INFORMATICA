@@ -9,3 +9,5 @@ Excel
 Excel - Formúlas
 ![panela thi](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/cfbdbcb2-c14f-435d-971a-d3c4b69a383d)
 
+Power BI - Prova
+![p BI thi prova](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/fe1b7921-4b14-4894-a345-35bd93149282)
