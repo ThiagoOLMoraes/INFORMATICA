@@ -19,3 +19,6 @@ Power Apps
 ![Power App 1](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/9a8fdf12-b594-48b1-93b5-80db6181efd0)
 ![Power App 2](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/f7ef7914-0afd-4e36-ba72-2fbc93034f57)
 ![Power App 3](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/85e66759-2a4b-43dc-8242-87757aa03f85)
+
+Power Automate - fluxo do projeto
+![Automate Thiago](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/a2ff3dfc-2373-40b9-80e9-5d75f1b7fe78)
