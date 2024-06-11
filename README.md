@@ -9,5 +9,8 @@ Excel
 Excel - Formúlas
 ![panela thi](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/cfbdbcb2-c14f-435d-971a-d3c4b69a383d)
 
+Excel - Formulas - Sandálias e computadores
+![sandalias thi](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/6c9e8b6a-3190-4716-812f-e0d755850b0d)
+
 Power BI - Prova
 ![p BI thi prova](https://github.com/ThiagoOLMoraes/INFORMATICA/assets/162645820/fe1b7921-4b14-4894-a345-35bd93149282)
